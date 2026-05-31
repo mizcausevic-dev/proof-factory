@@ -1,0 +1,191 @@
+[
+  {
+    "id": "ai-governance-proof",
+    "theme": "AI governance proof cluster",
+    "sector": "AI_PLATFORM",
+    "executiveBuyer": "CTO / CISO",
+    "proofClaim": "Kinetic Gain can show AI governance readiness as a repeatable board-safe proof package, not a vague strategy claim.",
+    "customerOutcome": "AI buyers get scorecards, control evidence, and narrative-safe board outputs instead of unstructured AI promises.",
+    "priorityBand": "DEFEND",
+    "proofStrengthScore": 87,
+    "roiConfidenceScore": 82,
+    "reuseReadinessScore": 85,
+    "evidenceState": "CURRENT",
+    "evidenceSummary": "Live scorecards, claims validation, and registry surfaces create a complete proof packet for AI-governance buyers.",
+    "boardSnippet": "AI governance is no longer just positioning copy here; the estate already shows scorecards, policy evidence, and board-readable control artifacts.",
+    "nextMove": "Keep using the AI governance lane as a flagship proof pack in board and investor updates.",
+    "companyTags": [
+      "IBM",
+      "Azure",
+      "OpenAI",
+      "MCP"
+    ],
+    "relatedSurfaces": [
+      "watsonx.kineticgain.com",
+      "suite.kineticgain.com",
+      "reality.kineticgain.com"
+    ]
+  },
+  {
+    "id": "platform-margin-proof",
+    "theme": "Platform margin proof cluster",
+    "sector": "CLOUD_IDENTITY",
+    "executiveBuyer": "CFO / CTO",
+    "proofClaim": "Kinetic Gain translates cloud, identity, and release drag into CFO-visible savings proof.",
+    "customerOutcome": "Operators get a cleaner savings narrative instead of another generic DevOps maturity story.",
+    "priorityBand": "DEFEND",
+    "proofStrengthScore": 84,
+    "roiConfidenceScore": 80,
+    "reuseReadinessScore": 82,
+    "evidenceState": "CURRENT",
+    "evidenceSummary": "Margin leak, identity evidence, and admin-control surfaces form a reusable proof packet for platform cost takeout.",
+    "boardSnippet": "The platform estate now ties technical sprawl to savings and risk, which makes the proof useful to both CTOs and boards.",
+    "nextMove": "Keep packaging margin and identity proof together instead of splitting them into separate technical stories.",
+    "companyTags": [
+      "Azure",
+      "AWS",
+      "GCP",
+      "Entra"
+    ],
+    "relatedSurfaces": [
+      "platform-margin-leak-report",
+      "access.kineticgain.com",
+      "protect.kineticgain.com"
+    ]
+  },
+  {
+    "id": "revenue-proof",
+    "theme": "Revenue infrastructure proof cluster",
+    "sector": "EXECUTIVE_INTELLIGENCE",
+    "executiveBuyer": "CRO / CMO",
+    "proofClaim": "Kinetic Gain can prove revenue-system quality, reporting trust, and growth control in one package.",
+    "customerOutcome": "Revenue leaders get a cleaner story around attribution, reporting, and controlled experimentation.",
+    "priorityBand": "SHORE_UP",
+    "proofStrengthScore": 77,
+    "roiConfidenceScore": 74,
+    "reuseReadinessScore": 76,
+    "evidenceState": "CURRENT",
+    "evidenceSummary": "Reporting, MarTech, and scorecard surfaces exist, but the proof still needs a tighter before/after outcomes frame.",
+    "boardSnippet": "There is real substance in the revenue estate, but it should be framed as proof of controlled growth infrastructure rather than a list of tools.",
+    "nextMove": "Tighten the revenue proof around measurable leakage reduction and reporting trust.",
+    "companyTags": [
+      "Klaviyo",
+      "VWO",
+      "Power BI",
+      "Tableau"
+    ],
+    "relatedSurfaces": [
+      "martech.kineticgain.com",
+      "flows.kineticgain.com",
+      "powerbi.kineticgain.com"
+    ]
+  },
+  {
+    "id": "fintech-proof",
+    "theme": "FinTech trust proof cluster",
+    "sector": "FINTECH",
+    "executiveBuyer": "CEO / CFO",
+    "proofClaim": "Payments, KYC, treasury, and merchant review can be shown as one trust-and-margin proof system.",
+    "customerOutcome": "Leaders get evidence that the FinTech lane is recognizable and not just a scattered admin set.",
+    "priorityBand": "SHORE_UP",
+    "proofStrengthScore": 75,
+    "roiConfidenceScore": 73,
+    "reuseReadinessScore": 72,
+    "evidenceState": "CURRENT",
+    "evidenceSummary": "The surfaces are live and coherent, but the ROI case still needs tighter language around cost takeout and risk reduction.",
+    "boardSnippet": "The FinTech lane is moving from scattered proof toward a recognizable trust-and-margin packet, but it still needs sharper ROI language.",
+    "nextMove": "Package KYC, treasury, payments, and merchant review into one proof packet with measurable business outcomes.",
+    "companyTags": [
+      "Stripe",
+      "Plaid",
+      "KYC",
+      "Treasury"
+    ],
+    "relatedSurfaces": [
+      "payments.kineticgain.com",
+      "kyc.kineticgain.com",
+      "treasury.kineticgain.com"
+    ]
+  },
+  {
+    "id": "biotech-proof",
+    "theme": "Biotech quality proof cluster",
+    "sector": "BIOTECH_DIAGNOSTICS",
+    "executiveBuyer": "COO / Quality lead",
+    "proofClaim": "The biotech lane can show GxP, CAPA, specimen, and safety coverage as a serious regulated-quality proof system.",
+    "customerOutcome": "Quality and diligence stakeholders can see a portfolio of control planes instead of isolated biotech demos.",
+    "priorityBand": "SHORE_UP",
+    "proofStrengthScore": 74,
+    "roiConfidenceScore": 69,
+    "reuseReadinessScore": 71,
+    "evidenceState": "STALE",
+    "evidenceSummary": "The proof density is good, but the summary layer still needs fresher packaging and stronger commercial wording.",
+    "boardSnippet": "The biotech proof cluster is real, but it needs a more polished roll-up before it can carry too much of the lead story.",
+    "nextMove": "Refresh the proof packet and tie the quality surfaces to one diligence-ready quality narrative.",
+    "companyTags": [
+      "GxP",
+      "CAPA",
+      "Specimen",
+      "Safety"
+    ],
+    "relatedSurfaces": [
+      "capa.kineticgain.com",
+      "specimen.kineticgain.com",
+      "safety.kineticgain.com"
+    ]
+  },
+  {
+    "id": "nonprofit-proof",
+    "theme": "Nonprofit impact proof cluster",
+    "sector": "NONPROFIT_FOUNDATION",
+    "executiveBuyer": "Executive director / Fundraising lead",
+    "proofClaim": "Grant evidence, outcomes, stewardship, and appeals can be reused as a real impact-proof system for nonprofit leaders.",
+    "customerOutcome": "Funders and operators can see measurable reporting posture instead of ad hoc nonprofit reporting pages.",
+    "priorityBand": "SHORE_UP",
+    "proofStrengthScore": 71,
+    "roiConfidenceScore": 66,
+    "reuseReadinessScore": 68,
+    "evidenceState": "STALE",
+    "evidenceSummary": "The proof exists, but the funder-facing language and outcome framing still need tightening.",
+    "boardSnippet": "The nonprofit lane has substance, but it should be presented as impact intelligence and stewardship proof, not just reporting ops.",
+    "nextMove": "Repackage the nonprofit cluster around measurable impact and board-ready funder proof.",
+    "companyTags": [
+      "Grant",
+      "Outcomes",
+      "Stewardship",
+      "Appeals"
+    ],
+    "relatedSurfaces": [
+      "grants.kineticgain.com",
+      "outcomes.kineticgain.com",
+      "stewardship.kineticgain.com"
+    ]
+  },
+  {
+    "id": "robotics-proof",
+    "theme": "Robotics deployment proof cluster",
+    "sector": "ROBOTICS",
+    "executiveBuyer": "COO / Robotics lead",
+    "proofClaim": "Fleet exceptions, human override, and sensor drift can become a deployment-readiness proof packet for robotics operators.",
+    "customerOutcome": "Executives can see how robotics risk and readiness might eventually be packaged for boards and investors.",
+    "priorityBand": "MUST_FIX",
+    "proofStrengthScore": 62,
+    "roiConfidenceScore": 58,
+    "reuseReadinessScore": 60,
+    "evidenceState": "MISSING",
+    "evidenceSummary": "The lane is promising, but the proof still feels early and too thin for heavy reuse.",
+    "boardSnippet": "The robotics surfaces are directionally good, but the proof packet is not strong enough yet to lead with externally.",
+    "nextMove": "Keep robotics as a supporting proof cluster until more deployment and outcome evidence is shipped.",
+    "companyTags": [
+      "Robotics",
+      "Override",
+      "Sensors",
+      "Fleet"
+    ],
+    "relatedSurfaces": [
+      "robots.kineticgain.com",
+      "sensor.kineticgain.com",
+      "override.kineticgain.com"
+    ]
+  }
+]
