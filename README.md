@@ -1,3 +1,15 @@
+> ## ⚠️ Archived 2026-05-31 — superseded
+>
+> This repo is archived. The shape it set out to solve was already covered (and shipped) on the apex tool surface:
+>
+> **→ [https://kineticgain.com/trust/evidence-locker/](https://kineticgain.com/trust/evidence-locker/)** — Evidence Locker Template + the 10 per-vertical *-readiness-evidence-bundle repos
+>
+> The apex surface is browser-only, no login, no telemetry, vanilla JS, aligned in vocabulary with NIST AI RMF / EU AI Act / ISO 42001 / SOC 2 / ISO 27018 / GDPR (never "compliant"/"certified" without external attestation).
+>
+> No migration needed — this repo never had production users; it was Codex-shipped scaffolding that landed in parallel with (and unaware of) the apex executive-tools layer.
+
+---
+
 # Proof Factory
 
 Investor-grade customer proof surface for ROI claims, evidence tables, board snippets, and reusable market-facing credibility across the Kinetic Gain executive-intelligence estate.
